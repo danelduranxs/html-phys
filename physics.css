@@ -1,0 +1,58 @@
+#dimensional {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#magnituds {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#vector {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#magnitudes2 {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#cientific{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#notacion{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  align-items: center;
+}
+
+#base{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  align-items: center;
+}
+
+#link {
+  text-align: center;
+}
+
+#vf{
+  text-align: center;
+}
